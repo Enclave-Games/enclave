@@ -1,0 +1,13 @@
+body {
+    background-color: #FEE140;
+    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%); 
+    overflow: hidden;
+}
+
+.container {     
+    text-align: center;
+    text-transform: uppercase; 
+    color: white;
+    font: 2em Arial;
+    line-height: 100vh;
+}
