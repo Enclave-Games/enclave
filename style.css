@@ -10,4 +10,5 @@ body {
     color: white;
     font: 2em Arial;
     line-height: 100vh;
+    user-select: none;
 }
